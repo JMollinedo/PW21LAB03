@@ -1,0 +1,9 @@
+{
+    "name": "lab03-03",
+    "version": "1.0.0",
+    "description": "Laboratorio 3",
+    "scripts": {
+      "tres": "node tres.js",
+      "cuat": "node cuatro.js"
+    }
+  }
